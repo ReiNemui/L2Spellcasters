@@ -62,7 +62,7 @@ repositories {
 
 base {
     // Distribution filename only; keep mod_id stable for existing worlds and configs.
-    archivesName = 'l2spellcast'
+    archivesName = 'l2spellcasters'
 }
 
 // Mojang ships Java 21 to end users in 1.21.1, so mods should target Java 21.

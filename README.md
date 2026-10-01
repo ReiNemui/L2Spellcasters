@@ -1,4 +1,4 @@
-# L2 Spell Cast
+# L2 Spell Casters
 
 NeoForge 1.21.1 addon for **L2 Hostility** and **Iron's Spells 'n Spellbooks**.
 It adds the L2 trait `enemyspellcast:spell_caster` (`Spell Caster` / `魔導`) and gives

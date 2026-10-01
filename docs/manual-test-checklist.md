@@ -1,4 +1,4 @@
-# L2 Spell Cast 1.0.0 manual compatibility checklist
+# L2 Spell Casters 1.0.0 manual compatibility checklist
 
 Use NeoForge 1.21.1 with the exact L2 Hostility and Iron's Spells versions declared by the
 mod. Record the mob ID, spell ID, Trait rank, L2 level, and relevant stack trace for every

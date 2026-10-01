@@ -1,8 +1,8 @@
-# L2 Spell Cast 1.0.0 日本語説明書
+# L2 Spell Casters 1.0.0 日本語説明書
 
 ## 1. このModについて
 
-L2 Spell Castは、L2 Hostilityの敵にIron's Spells 'n Spellbooksの魔法を使わせる
+L2 Spell Castersは、L2 Hostilityの敵にIron's Spells 'n Spellbooksの魔法を使わせる
 NeoForge 1.21.1用アドオンModです。
 
 対象の敵にはL2 Hostilityの特性として「魔導」が付きます。魔導を持つ敵は、個体ごとに
@@ -26,7 +26,7 @@ NeoForge 1.21.1用アドオンModです。
 | --- | --- |
 | Minecraft | 1.21.1 |
 | Modローダー | NeoForge 21.1.251以上 |
-| L2 Spell Cast | 1.0.0 |
+| L2 Spell Casters | 1.0.0 |
 | 必須Mod | L2 Hostility 3.0.18以上、4.0未満 |
 | 必須Mod | Iron's Spells 'n Spellbooks 1.21.1-3.16系 |
 | Java | Java 21 |
@@ -38,7 +38,7 @@ L2 HostilityとIron's Spellsが必要とする前提Modも導入してくださ�
 
 1. Minecraft 1.21.1用のNeoForge環境を用意します。
 2. L2 HostilityとIron's Spells 'n Spellbooks、および両Modの前提Modを導入します。
-3. `l2spellcast-1.0.0.jar`をMinecraftの`mods`フォルダーへ入れます。
+3. `l2spellcasters-1.0.0.jar`をMinecraftの`mods`フォルダーへ入れます。
 4. ゲームまたはサーバーを起動します。
 5. 初回起動後、`config/enemyspellcast-common.toml`が生成されます。
 
@@ -361,7 +361,7 @@ Modを外した状態では利用できません。L2 HostilityやIron's Spells�
 
 問題が起きた場合は、次の情報をまとめてください。
 
-- Minecraft、NeoForge、L2 Spell Castのバージョン
+- Minecraft、NeoForge、L2 Spell Castersのバージョン
 - L2 HostilityとIron's Spellsのバージョン
 - 導入している関連アドオンMod
 - 問題が起きたMobのID
@@ -382,7 +382,7 @@ Modを外した状態では利用できません。L2 HostilityやIron's Spells�
 
 ---
 
-- 配布ファイル: `l2spellcast-1.0.0.jar`
+- 配布ファイル: `l2spellcasters-1.0.0.jar`
 - 対象環境: Minecraft 1.21.1 / NeoForge
-- 表示名: L2 Spell Cast
+- 表示名: L2 Spell Casters
 - 特性名: 魔導 / Spell Caster
