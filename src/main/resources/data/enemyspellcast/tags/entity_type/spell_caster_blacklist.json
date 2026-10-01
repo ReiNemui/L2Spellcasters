@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ender_dragon",
+    "minecraft:wither",
+    "minecraft:warden",
+    "irons_spellbooks:pyromancer",
+    "irons_spellbooks:cryomancer",
+    "irons_spellbooks:necromancer",
+    "irons_spellbooks:archevoker",
+    "irons_spellbooks:citadel_keeper",
+    "irons_spellbooks:fire_boss",
+    "irons_spellbooks:priest",
+    "irons_spellbooks:apothecarist",
+    "irons_spellbooks:cultist",
+    "irons_spellbooks:cursed_armor_stand",
+    "irons_spellbooks:dead_king"
+  ]
+}

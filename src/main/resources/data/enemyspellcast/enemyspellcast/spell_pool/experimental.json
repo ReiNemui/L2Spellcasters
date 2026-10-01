@@ -1,0 +1,16 @@
+{
+  "spells": [
+    { "spell": "irons_spellbooks:raise_dead", "weight": 5, "min_trait_rank": 3, "target": "enemy", "behavior": "direct", "min_range": 2.0, "max_range": 24.0, "safety_category": "summoning" },
+    { "spell": "irons_spellbooks:summon_vex", "weight": 5, "min_trait_rank": 3, "target": "enemy", "behavior": "direct", "min_range": 2.0, "max_range": 24.0, "safety_category": "summoning" },
+    { "spell": "irons_spellbooks:summon_polar_bear", "weight": 5, "min_trait_rank": 3, "target": "enemy", "behavior": "direct", "min_range": 2.0, "max_range": 24.0, "safety_category": "summoning" },
+    { "spell": "irons_spellbooks:summon_horse", "weight": 5, "min_trait_rank": 2, "target": "self", "behavior": "direct", "min_range": 0.0, "max_range": 16.0, "safety_category": "summoning" },
+    { "spell": "irons_spellbooks:lob_creeper", "weight": 5, "min_trait_rank": 3, "target": "enemy", "behavior": "direct", "min_range": 2.0, "max_range": 24.0, "safety_category": "summoning" },
+    { "spell": "irons_spellbooks:chain_creeper", "weight": 5, "min_trait_rank": 3, "target": "enemy", "behavior": "direct", "min_range": 2.0, "max_range": 24.0, "safety_category": "summoning" },
+    { "spell": "irons_spellbooks:summon_swords", "weight": 5, "min_trait_rank": 3, "target": "self", "behavior": "direct", "min_range": 0.0, "max_range": 16.0, "safety_category": "summoning" },
+    { "spell": "irons_spellbooks:earthquake", "weight": 5, "min_trait_rank": 3, "target": "self", "behavior": "direct", "min_range": 0.0, "max_range": 16.0, "safety_category": "terrain_change" },
+    { "spell": "irons_spellbooks:touch_dig", "weight": 5, "min_trait_rank": 1, "target": "enemy", "behavior": "direct", "min_range": 2.0, "max_range": 16.0, "safety_category": "terrain_change" },
+    { "spell": "irons_spellbooks:portal", "weight": 5, "min_trait_rank": 3, "target": "self", "behavior": "direct", "min_range": 0.0, "max_range": 16.0, "safety_category": "portal" },
+    { "spell": "irons_spellbooks:recall", "weight": 5, "min_trait_rank": 3, "target": "self", "behavior": "direct", "min_range": 0.0, "max_range": 16.0, "safety_category": "portal" },
+    { "spell": "irons_spellbooks:pocket_dimension", "weight": 5, "min_trait_rank": 4, "target": "self", "behavior": "direct", "min_range": 0.0, "max_range": 16.0, "safety_category": "portal" }
+  ]
+}

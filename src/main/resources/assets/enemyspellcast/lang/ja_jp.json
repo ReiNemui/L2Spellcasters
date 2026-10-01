@@ -1,0 +1,4 @@
+{
+  "trait.enemyspellcast.spell_caster": "魔導",
+  "trait.enemyspellcast.spell_caster.desc": "固定されたランダム構成のIron's Spellsを詠唱する。ランクに応じて魔法数、レアリティ、レベルが上昇する。"
+}
