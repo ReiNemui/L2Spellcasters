@@ -38,7 +38,7 @@ L2 HostilityとIron's Spellsが必要とする前提Modも導入してくださ�
 
 1. Minecraft 1.21.1用のNeoForge環境を用意します。
 2. L2 HostilityとIron's Spells 'n Spellbooks、および両Modの前提Modを導入します。
-3. `enemyspellcast-1.0.0.jar`をMinecraftの`mods`フォルダーへ入れます。
+3. `l2spellcast-1.0.0.jar`をMinecraftの`mods`フォルダーへ入れます。
 4. ゲームまたはサーバーを起動します。
 5. 初回起動後、`config/enemyspellcast-common.toml`が生成されます。
 
@@ -382,7 +382,7 @@ Modを外した状態では利用できません。L2 HostilityやIron's Spells�
 
 ---
 
-- 配布ファイル: `enemyspellcast-1.0.0.jar`
+- 配布ファイル: `l2spellcast-1.0.0.jar`
 - 対象環境: Minecraft 1.21.1 / NeoForge
 - 表示名: L2 Spell Cast
 - 特性名: 魔導 / Spell Caster
