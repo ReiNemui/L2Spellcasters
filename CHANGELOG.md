@@ -2,7 +2,7 @@
 
 ## 1.0.0
 
-- Added the L2 Hostility `Spell Caster` / `魔導` Trait with ranks 1–5.
+- Added the L2 Hostility `Spellcaster` / `魔導` Trait with ranks 1–5.
 - Added persistent random loadouts with 1–3 distinct Iron's Spells spells.
 - Linked spell rarity and spell level to Trait rank, including maximum spell level at rank 5.
 - Added uncapped tiered spell-power, mana, and mana-regeneration scaling from L2 mob level.
@@ -17,7 +17,7 @@
   extension points.
 - Added native NeoForge GameTests for L2 Trait data, Iron caster exclusion, rank-5 loadout
   persistence, zero-mana fallback, and Trait removal.
-- Raised the Spell Caster Trait's natural-selection weight from 30 to the common L2
+- Raised the Spellcaster Trait's natural-selection weight from 30 to the common L2
   Hostility baseline of 100.
 - Expanded the bundled standard spell pool to 48 candidates, including teleportation,
   restraints, self buffs, barrages, and additional area attacks.

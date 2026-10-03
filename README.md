@@ -1,7 +1,7 @@
-# L2 Spell Casters
+# L2 Spellcasters
 
 NeoForge 1.21.1 addon for **L2 Hostility** and **Iron's Spells 'n Spellbooks**.
-It adds the L2 trait `enemyspellcast:spell_caster` (`Spell Caster` / `魔導`) and gives
+It adds the L2 trait `enemyspellcast:spell_caster` (`Spellcaster` / `魔導`) and gives
 eligible hostile mobs a persistent, random spell loadout.
 
 ## Behavior

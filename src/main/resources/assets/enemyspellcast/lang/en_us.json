@@ -1,4 +1,4 @@
 {
-  "trait.enemyspellcast.spell_caster": "Spell Caster",
+  "trait.enemyspellcast.spell_caster": "Spellcaster",
   "trait.enemyspellcast.spell_caster.desc": "Casts a persistent random loadout of Iron's Spells. Rank controls spell count, rarity, and level."
 }
